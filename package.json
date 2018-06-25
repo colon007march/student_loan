@@ -1,0 +1,22 @@
+{
+   "name": "student_loan",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@types/node": "^8.10.20",
+      "ts-node": "^3.3.0",
+      "tsconfig-paths": "^3.4.0",
+      "typescript": "^2.5.2"
+   },
+   "dependencies": {
+      "dateformat": "^3.0.3",
+      "express": "^4.16.3",
+      "jsonwebtoken": "^8.3.0",
+      "mysql": "^2.15.0",
+      "reflect-metadata": "^0.1.12",
+      "typeorm": "^0.2.7"
+   },
+   "scripts": {
+      "start": "nodemon"
+   }
+}
